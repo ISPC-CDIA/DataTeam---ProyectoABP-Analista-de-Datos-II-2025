@@ -11,3 +11,7 @@ Estudiantes de TSCSIA, cohorte 2024
 - Palomeque Jonathan  Manuel
 - Pich Valentina  
 - Eglimar Ramírez  
+
+##Documentos enlazados
+
+- [Poster] (https://www.canva.com/design/DAG2FV4sMgs/MEIqmACiuu0u4NGVis_K-Q/edit)
