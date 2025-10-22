@@ -14,4 +14,4 @@ Estudiantes de TSCSIA, cohorte 2024
 
 ##Documentos enlazados
 
-- [Poster] (https://www.canva.com/design/DAG2FV4sMgs/MEIqmACiuu0u4NGVis_K-Q/edit)
+- [Poster](https://www.canva.com/design/DAG2FV4sMgs/MEIqmACiuu0u4NGVis_K-Q/edit)
