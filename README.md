@@ -12,6 +12,6 @@ Estudiantes de TSCSIA, cohorte 2024
 - Pich Valentina  
 - Eglimar Ramírez  
 
-##Documentos enlazados
+## Documentos enlazados
 
 - [Poster](https://www.canva.com/design/DAG2FV4sMgs/MEIqmACiuu0u4NGVis_K-Q/edit)
